@@ -23,17 +23,11 @@ or an assumption.]
 
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 |---|---|---|---|---|
-
 | Julius | Many people and small businesses have odd jobs that need doing, such as repairs, errands, or one-off projects, but they lack the connections or a reliable way to reach someone willing to take them on. At the same time, there are people with free time and the skills to do this kind of work who simply have no easy way to find these opportunities when they come up. | small businesses and people willing to do odd jobs that have difficulty finding it. | Posting in facebook groups and relying on word of mouth. | assumption. |
-
 | Julius |  Lack of an official formal booking method in MSU-IIT causing Student organization leaders in MSU-IIT to often encounter some issues with booking a venue for their event. | Student organizations, school offices, speakers for the event if they have been contacted, students who are genuinely interested in joining such an event, etc. | Going back and forth and asking for which offices they need to reach out to and what requirements do they need | Experience preparing for Software freedom day |
-
 | Chrys | Students moving to Iligan from out-of-town struggle to find verified, affordable boarding houses near Andres Bonifacio Ave or Tibanga. Once settled, roommates often run into conflicts over tracking shared expenses like rent, electricity, and water bills. | MSU-IIT students, out-of-town boarders, and boarding house owners | asking friends and relatives, posting on social media, or going door to door looking for available boarding houses. | Personal experience during my 1st year. |
-
 | Chrys | sari-sari store owners losing track of debts owed to them and losing inventory records due to overreliance on paper notebooks | Local sari-sari store owners, resident consumers in local barangays | relying on memory to recall where records are inside the notebook | observation of my relative managing a sari-sari store. |
-
 | Dan | Households may not know when waste collection occurs, which materials can be recycled, or where to dispose of special waste. Recycling centers and junk shops can also struggle to communicate what materials they currently accept. | Households and local residents, Waste collectors, Recycling centers and junk shops, Barangay officials and local environmental offices. | Going to individual junk shops and checking what materials they accept | Source, friends living in certain barangays. |
-
 | Dan | Methods of retrieving lost and found items are scattered making it difficult to match lost items with their owners | People who lose items and people who find said missing items | People who lose their belongings often rely on asking classmates, posting on social media, or visiting different offices in hopes that someone has found their missing item. | Experience of misplacing items. |
 
 ## 2. Candidate Comparison and Selection
@@ -43,9 +37,7 @@ or an assumption.]
 | Candidate problem | Why it matters | Feasibility concerns | Access to potential stakeholders |
 |---|---|---|---|
 | Lack of an official formal booking method in MSU-IIT causing Student organization leaders in MSU-IIT to often encounter some issues with booking a venue for their event. | Manual booking event venues is unclear and tedious, and miscommunication between event organizers and venue faculty could cause last minute event cancellations. |  Venues across MSU-IIT are managed by separate offices with fragmented, often unwritten paper-based approval requirements, combining these into a real-time system could prove challenging| Our team has direct access to student organizations, and corresponding faculty. |
-
 | sari-sari store owners losing track of debts owed to them and losing inventory records due to overreliance on paper notebooks. | Continuous loss of funds due to unpaid debts could lead to bankruptcy, starvation, and even death. | Store owners may already be accustomed to manually listing out customer debts, lack a stable internet connection, or simply use an old school keypad phone. | Sari-sari stores are easy to find in every corner making it easy to acquire information and interview store owners and local customers. |
-
 | Households may not know when waste collection occurs, which materials can be recycled, or where to dispose of special waste. Recycling centers and junk shops can also struggle to communicate what materials they currently accept. | In local barangays, waste collection schedules are frequently disrupted by unpredictable factors like heavy rain, truck breakdowns, or understaffing. | Households and local junk shops are easy to survey but may require formal appointments to get a hold of LGUs. |
 
 ### Selected problem
